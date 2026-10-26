@@ -55,6 +55,11 @@ Directed, initiated, produced and edited by He Fa; collectively created with the
 
 每件材料的来源、版本与发布状态在条目中分别记录。目录可浏览与字幕可下载，不等于所有原始视频已经上线。
 
+## 导览与归档工具 · Guide and archive tools
+
+- **[作品导览助手源码](https://github.com/hehefa/openai-agents-starter-python)**：连接何发、P4当前官网及经典版的公开资料，回答附准确出处与原文链接；[进入导览](https://guide.p4theater.cn/)。
+- **[P4 Archive Toolkit](https://github.com/hehefa/p4-archive-toolkit)**：本地导入、检索、证据定位与版本管理工具，含已有公开资料投影、schema和测试。
+
 ## GitHub仓库目录 · Repository map
 
 | 仓库 | 保存什么 | 首要用途 |
@@ -66,6 +71,8 @@ Directed, initiated, produced and edited by He Fa; collectively created with the
 | [p4-submembrane-cn](https://github.com/hehefa/p4-submembrane-cn) | 《膜下》中国域名版本的静态页面、语言路由、资源与镜像脚本 | 进入数字作品及了解其文件结构 |
 | [relational-image-making](https://github.com/hehefa/relational-image-making) | 何发书稿的中英文PDF、页预览、校验与CITATION.cff | 阅读、下载与引用研究书稿 |
 | [he-fa-critical-monograph](https://github.com/hehefa/he-fa-critical-monograph) | 岑照评论的图文网页、PDF、Markdown、图片与元数据 | 阅读评论及追溯图像与参考文献 |
+| [openai-agents-starter-python](https://github.com/hehefa/openai-agents-starter-python) | 作品导览服务、公开来源语料与同步程序 | 带出处的作品问答 |
+| [p4-archive-toolkit](https://github.com/hehefa/p4-archive-toolkit) | 公开档案工具代码、schema、合成测试与已批准公开投影 | 导入、检索、版本与证据管理 |
 
 ## 引用与文件 · Citation and files
 
