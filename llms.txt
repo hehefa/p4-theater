@@ -10,3 +10,10 @@
 - Deleuze Cinema Atlas: https://deleuze.p4theater.cn/zh
 - Verified Works Guide: https://guide.p4theater.cn/
 - Wikidata: https://www.wikidata.org/wiki/Q141774710
+
+## P4 archive and repository navigation
+- Preserved Classic Website: https://p.p4theater.cn/
+- P4 GitHub Navigation: https://github.com/hehefa/p4-theater
+- Versioned Archival Catalogue: https://github.com/hehefa/-p4-theater-archive/blob/main/INDEX.md
+- Official Project Registry: https://github.com/hehefa/-p4-theater-archive/blob/main/registry/README.md
+- Public Captions and Translations: https://github.com/hehefa/-p4-theater-archive/blob/main/captions/README.md

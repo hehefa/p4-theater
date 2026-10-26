@@ -5,12 +5,25 @@
       "@type": "Organization",
       "@id": "https://p4theater.cn/#organization",
       "name": "P4剧场",
-      "alternateName": ["P4 Theater", "P4 Theatre", "P4 剧场"],
+      "alternateName": [
+        "P4 Theater",
+        "P4 Theatre",
+        "P4 剧场"
+      ],
       "url": "https://p4theater.cn/",
-      "location": {"@type": "Place", "name": "Beijing, China"},
+      "location": {
+        "@type": "Place",
+        "name": "Beijing, China"
+      },
       "founder": [
-        {"@id": "https://hefa.p4theater.cn/#person"},
-        {"@type": "Person", "name": "Zhang Shaohua", "alternateName": "张绍华"}
+        {
+          "@id": "https://hefa.p4theater.cn/#person"
+        },
+        {
+          "@type": "Person",
+          "name": "Zhang Shaohua",
+          "alternateName": "张绍华"
+        }
       ],
       "sameAs": [
         "https://p4theater.cn/",
@@ -26,13 +39,35 @@
       "@type": "Person",
       "@id": "https://hefa.p4theater.cn/#person",
       "name": "He Fa",
-      "alternateName": ["何发", "Fa He"],
+      "alternateName": [
+        "何发",
+        "Fa He"
+      ],
       "url": "https://hefa.p4theater.cn/",
       "sameAs": [
         "https://www.wikidata.org/wiki/Q141774670",
         "https://orcid.org/0009-0007-0910-8965",
         "https://www.imdb.com/name/nm14762677/"
       ]
+    },
+    {
+      "@type": "DataCatalog",
+      "@id": "https://github.com/hehefa/-p4-theater-archive#catalog",
+      "name": "P4剧场档案目录 / P4 Theater Archive Catalogue",
+      "url": "https://github.com/hehefa/-p4-theater-archive",
+      "description": "P4项目、事件、视频来源、公开字幕及修订记录的版本化目录。",
+      "publisher": {
+        "@id": "https://p4theater.cn/#organization"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://p.p4theater.cn/#website",
+      "url": "https://p.p4theater.cn/",
+      "name": "P4剧场经典版 / P4 Theater Classic",
+      "about": {
+        "@id": "https://p4theater.cn/#organization"
+      }
     }
   ]
 }
